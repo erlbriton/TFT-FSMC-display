@@ -1,0 +1,11 @@
+../Core/Src/images.c:37:6:USART1_DMA_Init	1
+../Core/Src/images.c:104:6:screen_first	1
+../Core/Src/images.c:133:6:cooler_start	1
+../Core/Src/images.c:136:6:cooler_stop	1
+../Core/Src/images.c:140:6:HAL_TIM_PeriodElapsedCallback	8
+../Core/Src/images.c:163:6:turn_off	5
+../Core/Src/images.c:181:6:draw_turn_off	1
+../Core/Src/images.c:189:6:check_images	15
+../Core/Src/images.c:261:6:test_off	2
+../Core/Src/images.c:269:6:count_watch	3
+../Core/Src/images.c:280:6:count_mode_2	3
